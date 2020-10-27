@@ -5,3 +5,11 @@ C:\Users\Michael\Mike-117\Tech_Academy_C_Sharp_Coding_Projects\ExcelToSqlConsole
 C:\Users\Michael\Mike-117\Tech_Academy_C_Sharp_Coding_Projects\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.csproj.CoreCompileInputs.cache
 C:\Users\Michael\Mike-117\Tech_Academy_C_Sharp_Coding_Projects\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.exe
 C:\Users\Michael\Mike-117\Tech_Academy_C_Sharp_Coding_Projects\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.pdb
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.csprojAssemblyReference.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.csproj.ResolveComReference.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.exe
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\obj\Debug\ExcelToSqlConsole.pdb
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\bin\Debug\ExcelToSqlConsole.exe.config
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\bin\Debug\ExcelToSqlConsole.exe
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSqlConsole\bin\Debug\ExcelToSqlConsole.pdb

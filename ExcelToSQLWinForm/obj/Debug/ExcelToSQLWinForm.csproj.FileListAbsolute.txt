@@ -1,0 +1,17 @@
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelToSQLWinForm.exe.config
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelToSQLWinForm.exe
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelToSQLWinForm.pdb
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.dll
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.xml
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.csprojAssemblyReference.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.Form1.resources
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.Properties.Resources.resources
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.csproj.GenerateResource.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.csproj.CopyComplete
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.exe
+C:\Users\Michael\Mike-117\Excel_to_SQL\ExcelToSQLWinForm\obj\Debug\ExcelToSQLWinForm.pdb
