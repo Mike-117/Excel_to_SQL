@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ExcelApp = Microsoft.Office.Interop.Excel;//Install NuGet Package for solution
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace ExcelToSqlConsole
 {
@@ -88,6 +89,8 @@ namespace ExcelToSqlConsole
                     sqlBulkCopy.WriteToServer(myTable);
                     sqlconnection.Close();
                 }
+
+
 
             }
             //after reading, relaase the excel project
