@@ -6,7 +6,7 @@
  With time on the project running short, I decided not to look into any new methods but apply what I already knew. So I constructed two programs - a method to turn an Excel .xlsx file into a C# datatable, and another one to turn a C# datatable into a SQL database table. Then I simply combined them into one program, and I got the result I wanted.
  
  # Update
- The original program had several drawbacks: the user had to type in the full filename of the Excel worksheet; the datatable columns had to be preprogrammed to a specifice worksheet; the same with the databse. While it worked to make a specific Excel worksheet into a SQL database table, it was extremely limited in its usablity.
+ The original program had several drawbacks: the user had to type in the full filename of the Excel worksheet; the datatable columns had to be preprogrammed to a specific worksheet; the same with the databse. While it worked to make a predetermined Excel worksheet into a SQL database table, it was extremely limited in its usability.
  
  I decided to refactor it as a Windows Form app, wherein the user could choose the file and all the data would be automatically converted to a C# datatable for reading, and a SQL database table for storage. I was able to complete the first half of the operation, using the ExcelDataReader library.
  
@@ -15,4 +15,4 @@
  The second part eluded me. While I learned how to populate the database automatically, I still had to write the database attributes manually. I have yet to discover a method that will encapsulate that process based solely on user input. When I discover that I will add another update.
  
  # Yes, I know...
- There are currently any number of APIs out there that converts an Excel spreadsheet into a C# datatable, including EPPlus, SpreadSheetLight, and EasyXLS. You can also convert an Excel document into a SQL database table using the Import Wizard in SSMS, bypassing C# altogether. But I wanted to build something that does both jobs at once.
+ There are currently any number of APIs out there that convert an Excel spreadsheet into a C# datatable, including EPPlus, SpreadSheetLight, and EasyXLS. Moreover, you can also convert an Excel document into a SQL database table using the Import Wizard in SSMS, bypassing C# altogether. But I wanted to build something that does both jobs at once.
